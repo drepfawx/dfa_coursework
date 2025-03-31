@@ -1,6 +1,6 @@
 # DFA for Recognizing 8-Character Strings
 
-This Java program is part of my coursework in **Discrete Structures**, where I have to synthesize a deterministic finite automaton **(DFA)** designed to recognize strings of length 8 that follow a specific pattern.
+This Java program is part of my coursework in **Discrete Structures**, where I have to synthesize a deterministic finite automaton **(DFA)**, designed to recognize strings of length 8 that follow a specific pattern.
 
 ## Language Definition
 The DFA accepts only strings that meet the following criteria:
