@@ -12,7 +12,7 @@ The DFA accepts only strings that meet the following criteria:
 
 ### Example of Accepted Strings
 - `cacbbcbc` ✅ **Accepted**  
-- `cbcbbccc` ❌ **Rejected** (2nd character is not `a` or `b`)  
+- `cccbbccc` ❌ **Rejected** (2nd character is not `a` or `b`)  
 - `cacbbcb` ❌ **Rejected** (Length is not 8)  
 - `cacbbcbx` ❌ **Rejected** (8th character is not `b` or `c`)  
 
