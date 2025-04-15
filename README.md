@@ -17,5 +17,5 @@ The DFA accepts only strings that meet the following criteria:
 - `cacbbcbx` ❌ **Rejected** (8th character is not `b` or `c`)  
 
 ---
-![image](https://github.com/user-attachments/assets/fe5544dd-50e8-4ff3-964c-4c65344ff6f5)
+![image](https://github.com/user-attachments/assets/a9523948-9bce-42f2-8250-716a8497b87a)
 *Figure: DFA state transition diagram (badly drawn).*
